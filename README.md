@@ -1,2 +1,2 @@
-# forecast
-Tile prediction
+# Forecast
+Tile prediction project
